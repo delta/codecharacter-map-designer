@@ -126,7 +126,7 @@ function downloadMap() {
 				currentMap = currentMap + 'L ';
 			}
 			else if (codecharmap[j][i] == 0) {
-				currentMap = currentMap + 'G ';
+				currentMap = currentMap + 'F ';
 			}
 		}
 		currentMap += '\n';
